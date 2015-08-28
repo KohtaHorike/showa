@@ -1,0 +1,87 @@
+body{
+	width:100%;
+	padding: auto;
+
+}
+
+/* ----     暫定-------*/
+
+h1{
+	font-size: 8px;
+}
+
+/* ----     暫定-------*/
+.header{
+	width:900px;
+	height: 120px;
+	box-shadow: 1px 1px 1px black;
+	background-color: green;
+	margin: 0 auto;
+}
+.left{
+	width: 400px;
+	height: 50px;
+	border:1px solid black;
+	padding: 0;
+	float: left;
+}
+
+.right{
+	width: 400px;
+	height: 50px;
+	border:1px solid black;
+	padding: 0;
+	float: right;
+}
+
+.menu{
+	padding-top: 10px;
+	margin: 0 auto;
+}
+.menu ul{
+	list-style-type: none;
+	display: table;
+	}
+
+.menu li{
+	margin: auto;
+	border: 1px solid black;
+	background-color: pink;
+	width: 180px;
+	height: 30px;
+	display: table-cell;
+}
+
+.menu li > a {
+	margin-top: 10px;
+	margin-left: 60px;
+}
+
+.slider{
+	width:900px;
+	height: 300px;
+	background-color: yellow;
+	margin: 0 auto;
+}
+
+.main{
+	margin: 0 auto;
+	display: table;
+}
+
+.main .mini_box{
+	width: 250px;
+	height: 250px;
+	padding: 10px;
+	margin: 30px;
+	background-color: aqua;
+	float: left;
+	
+}
+
+.footer{
+	background-color: #282f29;
+	width: 100%;
+	height: 100px;
+	color:white;
+}

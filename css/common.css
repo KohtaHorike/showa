@@ -1,0 +1,63 @@
+.header{
+	margin-bottom: 10px;
+}
+
+.menu{
+	margin-bottom: 20px;
+}
+
+.slider{
+	margin-bottom: 50px;
+}
+.contents{
+	
+}
+.breadcrumb{
+	margin-left: 20px;
+}
+#test{
+	box-sizing:box-border;
+	border:1px solid #000;
+	height:500px;
+}
+#img{
+	height: 200px;
+	width: 48%;
+	float: left;
+}
+
+/*footer contents*/
+.footer{
+	width: 100%;
+}
+#text{
+	margin: 0 auto;
+	width: 30%;
+}
+#text>p{
+	margin: 0 auto;
+	color:#333;
+}
+/*TOPページ*/
+		.contents{
+			margin: 0 auto;
+			width: 80%;
+		}
+		.box{
+			padding: 0 20px;
+		}
+		.thumbnail{
+			margin: 0 auto;
+			background: rgba(80,200,80,0.3);	
+		}
+/*span red*/
+		.red{
+			color:red;
+			font-size: 20px;
+		}
+/*id thanks*/
+		.thanks{
+			text-align: center;
+			font-size: 25px;
+			padding: 30px 0;
+		}

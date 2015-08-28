@@ -1,0 +1,951 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Str",
+				"String"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"_se",
+				"_SESSION"
+			],
+			[
+				"_SE",
+				"_SERVER"
+			],
+			[
+				"open",
+				"openssl_open"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"DB",
+				"DB_PASSWORD"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"array_",
+				"array_pop"
+			],
+			[
+				"se",
+				"session_start"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"hear",
+				"header	<header>"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"deta",
+				"detail"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"post",
+				"posting"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"ar",
+				"article	<article>"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"Ma",
+				"MAX_MP"
+			],
+			[
+				"MP",
+				"MAX_MP"
+			],
+			[
+				"password",
+				"password_verify"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"id",
+				"idx"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"coro",
+				"color"
+			],
+			[
+				"form",
+				"forms"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"close",
+				"closeCursor"
+			],
+			[
+				"my",
+				"myRows"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"ka",
+				"kname"
+			],
+			[
+				"coma",
+				"company"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"pic",
+				"pic_tmp"
+			],
+			[
+				"pic_",
+				"pic_name"
+			],
+			[
+				"base",
+				"basename"
+			],
+			[
+				"ma",
+				"mail"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"mb_conve",
+				"mb_convert_kana"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ca",
+				"caption	<caption>"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"box",
+				"box_4"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"fla",
+				"flag_b"
+			],
+			[
+				"flag",
+				"flag_a"
+			],
+			[
+				"bo",
+				"box_2"
+			],
+			[
+				"che",
+				"check_2"
+			],
+			[
+				"check",
+				"check_1"
+			],
+			[
+				"now",
+				"now_h"
+			],
+			[
+				"add",
+				"addMoney"
+			],
+			[
+				"max",
+				"max_prof"
+			],
+			[
+				"live",
+				"live_num"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"selec",
+				"selecter"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"offe",
+				"offsetWidth"
+			],
+			[
+				"offset",
+				"offsetWidth"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"remover",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"repla",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"scr",
+				"scroll	.scroll()"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"img",
+				"img	img"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"child",
+				"childNodes"
+			],
+			[
+				"chi",
+				"childNodes"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"country",
+				"country"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"getElemnt",
+				"getElementsByName"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"data",
+				"dataInfo"
+			],
+			[
+				"GDp",
+				"GDP_gross"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"GDP",
+				"GDP_gross"
+			],
+			[
+				"GDP_",
+				"GDP_gross"
+			],
+			[
+				"show",
+				"showData"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"doc",
+				"Document"
+			],
+			[
+				"G",
+				"GDP_gross"
+			],
+			[
+				"Gd",
+				"GDP_capita"
+			],
+			[
+				"GD",
+				"GDP_gross"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"stock",
+				"stock1"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"fir",
+				"firstChild"
+			],
+			[
+				"write",
+				"writeRow"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"lsit",
+				"list-style"
+			],
+			[
+				"PADDIN",
+				"padding-top"
+			],
+			[
+				"le",
+				"left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				" package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcage",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/horikekohta/Google drive/PHP/昭和金型"
+	],
+	"file_history":
+	[
+		"/Users/horikekohta/Google drive/PHP/kadai4/css/common.css",
+		"/Users/horikekohta/Downloads/java/test/test.java",
+		"/Users/horikekohta/Downloads/java/test/Computer.java",
+		"/Users/horikekohta/Google drive/PHP/kadai4/config.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/register_ctr.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/login.php",
+		"/Users/horikekohta/Google drive/PHP/kadai3/config_user.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/config_user.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/thanks.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/article.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/login_alert.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/confirm.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/readme.txt",
+		"/Users/horikekohta/Google drive/PHP/kadai4/index.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/register.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/data.sql",
+		"/Users/horikekohta/Google drive/PHP/kadai3/register.php",
+		"/Users/horikekohta/Google drive/PHP/kadai4/logout.php",
+		"/Users/horikekohta/Downloads/php.ini",
+		"/Applications/MAMP/bin/php/php5.6.10/conf/php.ini",
+		"/Users/horikekohta/Google drive/PHP/kadai4/register.html",
+		"/Applications/MAMP/db/mysql/my.cnf",
+		"/Applications/MAMP/Library/support-files/my-large.cnf",
+		"/Users/horikekohta/Downloads/java/textbook/Cleric.java",
+		"/Users/horikekohta/Downloads/java/textbook/main.java",
+		"/Users/horikekohta/Downloads/java/0725/Enemy.java",
+		"/Users/horikekohta/Downloads/java/0725/practice86.java",
+		"/Users/horikekohta/Downloads/umikujiraWorks/index.html",
+		"/Users/horikekohta/Downloads/java/0725/Hero.java",
+		"/Users/horikekohta/Downloads/vim/main2.java",
+		"/Users/horikekohta/Google ドライブ/java/main.java",
+		"/Users/horikekohta/Google ドライブ/java/main.class",
+		"/Users/horikekohta/Google ドライブ/vim/index.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/security.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/database.sql",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/debug.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/functions_users.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/login.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/register.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/insert.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/index.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/logout.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/config_user.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai3/confin_user.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai2/admin/database.sql",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai2/admin/admin.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai2/inquiry.sql",
+		"/Users/horikekohta/Downloads/【開発中】pending SHOMOLD /js/index.html",
+		"/Users/horikekohta/Downloads/index.html",
+		"/Users/horikekohta/Downloads/temp_sakashita/jarallax/jarallax2/style.css",
+		"/Users/horikekohta/Downloads/temp_sakashita/jarallax/jarallax2/index.html",
+		"/Users/horikekohta/Downloads/temp_sakashita/jarallax/jarallax2/animation.js",
+		"/Users/horikekohta/Downloads/temp_sakashita/jarallax/jarallax2/jarallax.js",
+		"/Users/horikekohta/Downloads/temp_sakashita/jarallax/index.html",
+		"/Users/horikekohta/Downloads/temp_sakashita/jarallax/style.css",
+		"/Users/horikekohta/Downloads/temp_sakashita/jarallax/animation.js",
+		"/Users/horikekohta/Downloads/temp_sakashita/jarallax/jarallax.js",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai/index.html",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai/login.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai/index.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai/mysql.php",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai/test.php",
+		"/Users/horikekohta/Google ドライブ/PHP/kadai/info.ini",
+		"/Users/horikekohta/Downloads/【開発中】pending SHOMOLD /biography/index.html",
+		"/Users/horikekohta/Downloads/【開発中】pending SHOMOLD /index_01.html",
+		"/Users/horikekohta/Downloads/【開発中】pending SHOMOLD /css/common.css",
+		"/Users/horikekohta/Downloads/【開発中】pending SHOMOLD /inquiry/index.html",
+		"/Users/horikekohta/Downloads/【開発中】pending SHOMOLD /facility/index.html",
+		"/Users/horikekohta/Downloads/【開発中】pending SHOMOLD /company/process.html",
+		"/Users/horikekohta/Downloads/【開発中】pending SHOMOLD /company/index.html",
+		"/Users/horikekohta/Documents/PHP/index.php",
+		"/Applications/MAMP/htdocs/PHP/manual/form.php",
+		"/Users/horikekohta/Documents/PHP/20150906BBQ poster[20150624].php",
+		"/Users/horikekohta/Downloads/temp_sakagami/index.html",
+		"/Users/horikekohta/Downloads/temp_sakagami/css/style.css",
+		"/Users/horikekohta/Downloads/temp_sakagami/css/jquery.scrolldepth.js",
+		"/Users/horikekohta/Downloads/temp_sakagami/js/main.min.js",
+		"/Users/horikekohta/Downloads/temp_sakagami/js/lib.js",
+		"/Users/horikekohta/Downloads/temp_sakagami/css/colorbox.css",
+		"/Users/horikekohta/Downloads/temp_sakagami/css/normalize.css",
+		"/Users/horikekohta/Desktop/ワークステーション/test3.html",
+		"/Applications/MAMP/htdocs/PHP/mysql/seasia.sql",
+		"/Applications/MAMP/htdocs/0624/index.php",
+		"/Users/horikekohta/Desktop/ワークステーション/test_4.html",
+		"/Applications/MAMP/htdocs/PHP/mysql/pdo_7-3-1.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Users/horikekohta/Desktop/ワークステーション/test_2.html",
+		"/Users/horikekohta/Desktop/test.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18/index_asean.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18/css/header.css",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18/flexslider/slider_test.html",
+		"/Users/horikekohta/Downloads/debug.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18/flexslider/debug.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18/flexslider/flexslider.css",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/js/debug.js",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/index_asean.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/flexslider/slider_test.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/slider_test.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/js/stock.js",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/js/string_opt.js",
+		"/Users/horikekohta/Downloads/test2.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/css/layout.css",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/css/header.css",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18 (1)/js/newsData.js",
+		"/Users/horikekohta/Downloads/ときどきWEB｜jQuery覚えたい人向け入門の問題集作ってやんよ!!!（メソッド編）.html",
+		"/Users/horikekohta/Downloads/test.html",
+		"/Users/horikekohta/Google ドライブ/documents-export-2015-05-18/css/content.css",
+		"/Users/horikekohta/Google ドライブ/asean post_発表用（ボーダー外し）/index_asean.html",
+		"/Users/horikekohta/Google ドライブ/asean post_発表用（ボーダー外し）/js/debug.js",
+		"/Users/horikekohta/Google ドライブ/asean post_発表用（ボーダー外し）/js/SG.js",
+		"/Users/horikekohta/Google ドライブ/asean post_発表用（ボーダー外し）/css/content.css",
+		"/Users/horikekohta/Google ドライブ/asean post_発表用（ボーダー外し）/css/nav.css",
+		"/Users/horikekohta/Google ドライブ/asean post_発表用（ボーダー外し）/css/header.css",
+		"/Users/horikekohta/Google ドライブ/asean post_発表用（ボーダー外し）/css/layout.css",
+		"/Users/horikekohta/Google ドライブ/asean post_発表用（ボーダー外し）/css/common.css",
+		"/Users/horikekohta/Google ドライブ/lalaschoolmate_folder/javascript/asean post/untitled.html",
+		"/Users/horikekohta/Google ドライブ/lalaschoolmate_folder/javascript/asean post/js/SG.js",
+		"/Users/horikekohta/Google ドライブ/html_css(yaoi) /練習問題.html",
+		"/Users/horikekohta/javascripting/object-properties.js",
+		"/Users/horikekohta/javascripting/object-properites.js",
+		"/Users/horikekohta/Google ドライブ/lalaschoolmate_folder/javascript/index_js.html",
+		"/Users/horikekohta/Google ドライブ/lalaschoolmate_folder/javascript/world_clock.html",
+		"/Users/horikekohta/Google ドライブ/lalaschoolmate_folder/javascript/javascript_persona_practice/DOM2.html",
+		"/Users/horikekohta/Google ドライブ/lalaschoolmate_folder/javascript/javascript_persona_practice/DOM1.html",
+		"/Users/horikekohta/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/horikekohta/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/horikekohta/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"book",
+			"book	",
+			"book",
+			"stirng",
+			"$dbh =connectDb();",
+			"display_errors",
+			"error",
+			"extension=mb",
+			"extension",
+			"multi",
+			"meta",
+			"	\n",
+			"35",
+			"error",
+			"設定ファイル",
+			";\n",
+			"$err['name']",
+			"</div>",
+			"<div style=\"text-align: left;\">",
+			"img",
+			"80px",
+			"80px-",
+			"%\"}]);",
+			"');\n",
+			"get",
+			"#777",
+			"debug",
+			"></",
+			"class",
+			"style=\"margin-left:20px;",
+			"	    ",
+			"alert",
+			"document.write",
+			"console.log",
+			"\n    ",
+			"alternate",
+			"reverse",
+			"height:400px;",
+			"20px",
+			"reverse",
+			"30px",
+			"5px",
+			"padding:0 ",
+			"width",
+			"Document",
+			"img/s_img",
+			"../",
+			"button",
+			"span",
+			"img ",
+			"img",
+			"country",
+			"showData",
+			"dataInfo",
+			"dataShow",
+			"var infoData =",
+			"+=",
+			"contry",
+			"lable",
+			"SG",
+			"label",
+			"　label",
+			"onclick",
+			"contry",
+			"countryInfo",
+			"this",
+			"+=",
+			"contry",
+			"800",
+			"slider",
+			"img",
+			"category",
+			"white",
+			"<span",
+			"white",
+			"<td>t1</td>",
+			"td",
+			"result",
+			"width=\"300px\" height=\"100px\"",
+			"primary",
+			"info",
+			"支店",
+			"視点",
+			"value=\"p",
+			"h1",
+			"!",
+			"6",
+			"\n	",
+			"h1",
+			"</div>",
+			"<div class=\"left_box\">",
+			"!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "昭和金型.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
